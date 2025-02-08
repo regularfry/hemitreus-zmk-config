@@ -26,7 +26,7 @@
    &kp Q      &kp W     &lt LAYER2 D     &lt LAYER1 R      &kp K                                      &kp Y   &kp U      &kp I     &kp O     &kp P
    &kp A      &kp S     &kp T     &kp F      &kp G                                      &kp H   &kp J      &kp E     &kp L     &kp SEMI
    &kp Z      &kp X     &kp C     &kp V      &kp B      &kp GRAVE            &kp BSLH   &kp N   &kp M      &kp COMMA &kp DOT   &kp SLASH
-   &kp ENTER  &kp TAB   &kp LCMD  &kp LCTRL  &kp LSHFT  &kp BSPC           &kp DEL    &kp SPACE &kp LALT   &kp LBKT  &kp RBKT  &kp ENTER
+   &kp ENTER  &kp TAB   &kp LCMD  &kp LCTRL  &kp LSHFT  &kp BSPC           &kp DEL    &kp SPACE &kp LALT   &kp LPAR  &kp RPAR  &kp ENTER
                         >;
 
 
