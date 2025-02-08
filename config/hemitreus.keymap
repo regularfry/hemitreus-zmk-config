@@ -9,7 +9,7 @@
 &lt {
     tapping-term-ms = <125>;
     retro-tap;
-}
+};
 
 / {
         keymap {
